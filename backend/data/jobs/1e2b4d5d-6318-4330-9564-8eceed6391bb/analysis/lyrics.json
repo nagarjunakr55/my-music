@@ -1,0 +1,563 @@
+{
+  "language": "te",
+  "text": "hairoo! keinur I don't know whether you fall and Iland \ud83c\uddfcdled scalp Centre expects! fitness \ud83c\udfc3\u2026Ahoul Know Na, Ra, Ra, Ra, Ra, Ra.... SILILILILILILILiling Yiyorum \u00e4u... Oysel veta mustun... Mae horseunilabarayun ki.. Y Beauty \uc218\ub9ce",
+  "segments": [
+    {
+      "start": 120.0,
+      "end": 120.72,
+      "text": "hairoo!",
+      "words": [
+        {
+          "word": "hairoo!",
+          "start": 120.0,
+          "end": 120.72,
+          "probability": 0.005718092369988881
+        }
+      ]
+    },
+    {
+      "start": 123.02,
+      "end": 123.58,
+      "text": "keinur",
+      "words": [
+        {
+          "word": "keinur",
+          "start": 123.02,
+          "end": 123.72,
+          "probability": 0.000532749265403254
+        }
+      ]
+    },
+    {
+      "start": 124.42,
+      "end": 124.42,
+      "text": "",
+      "words": null
+    },
+    {
+      "start": 124.42,
+      "end": 124.42,
+      "text": "",
+      "words": null
+    },
+    {
+      "start": 124.42,
+      "end": 124.42,
+      "text": "",
+      "words": null
+    },
+    {
+      "start": 124.42,
+      "end": 124.42,
+      "text": "",
+      "words": null
+    },
+    {
+      "start": 124.42,
+      "end": 124.46,
+      "text": "I don't know",
+      "words": [
+        {
+          "word": "I",
+          "start": 124.42,
+          "end": 124.42,
+          "probability": 0.020376885309815407
+        },
+        {
+          "word": "don't",
+          "start": 124.42,
+          "end": 124.46,
+          "probability": 0.506864745169878
+        },
+        {
+          "word": "know",
+          "start": 124.46,
+          "end": 124.46,
+          "probability": 0.1732514202594757
+        }
+      ]
+    },
+    {
+      "start": 124.46,
+      "end": 130.24,
+      "text": "whether you fall and Iland",
+      "words": [
+        {
+          "word": "whether",
+          "start": 124.46,
+          "end": 125.34,
+          "probability": 0.0030178159940987825
+        },
+        {
+          "word": "you",
+          "start": 125.34,
+          "end": 126.12,
+          "probability": 0.12348021566867828
+        },
+        {
+          "word": "fall",
+          "start": 126.12,
+          "end": 127.32,
+          "probability": 0.0004297073755878955
+        },
+        {
+          "word": "and",
+          "start": 127.32,
+          "end": 127.32,
+          "probability": 0.018683524802327156
+        },
+        {
+          "word": "Iland",
+          "start": 127.32,
+          "end": 130.24,
+          "probability": 0.029479687536195343
+        }
+      ]
+    },
+    {
+      "start": 136.2,
+      "end": 142.2,
+      "text": "\ud83c\uddfcdled scalp Centre expects! fitness",
+      "words": [
+        {
+          "word": "\ud83c\uddfcdled",
+          "start": 136.2,
+          "end": 137.6,
+          "probability": 0.006916162597519815
+        },
+        {
+          "word": "scalp",
+          "start": 137.6,
+          "end": 137.6,
+          "probability": 1.0116450539499056e-05
+        },
+        {
+          "word": "Centre",
+          "start": 137.6,
+          "end": 138.22,
+          "probability": 2.4285762265208177e-05
+        },
+        {
+          "word": "expects!",
+          "start": 138.22,
+          "end": 140.44,
+          "probability": 3.855709110212047e-06
+        },
+        {
+          "word": "fitness",
+          "start": 141.74,
+          "end": 142.2,
+          "probability": 1.1771012395911384e-06
+        }
+      ]
+    },
+    {
+      "start": 158.73999999999998,
+      "end": 160.14,
+      "text": "\ud83c\udfc3",
+      "words": [
+        {
+          "word": "\ud83c\udfc3",
+          "start": 158.73999999999998,
+          "end": 160.14,
+          "probability": 0.03503622093315547
+        }
+      ]
+    },
+    {
+      "start": 160.24,
+      "end": 163.24,
+      "text": "\u2026Ahoul Know",
+      "words": [
+        {
+          "word": "\u2026Ahoul",
+          "start": 160.24,
+          "end": 161.0,
+          "probability": 0.00033592756638730253
+        },
+        {
+          "word": "Know",
+          "start": 161.0,
+          "end": 163.24,
+          "probability": 4.422329311637441e-06
+        }
+      ]
+    },
+    {
+      "start": 163.24,
+      "end": 169.84,
+      "text": "Na, Ra, Ra, Ra, Ra, Ra....",
+      "words": [
+        {
+          "word": "Na,",
+          "start": 163.24,
+          "end": 163.56,
+          "probability": 0.02742411009967327
+        },
+        {
+          "word": "Ra,",
+          "start": 163.64,
+          "end": 164.08,
+          "probability": 0.00817301869392395
+        },
+        {
+          "word": "Ra,",
+          "start": 164.08,
+          "end": 164.64,
+          "probability": 0.9484158158302307
+        },
+        {
+          "word": "Ra,",
+          "start": 164.68,
+          "end": 165.0,
+          "probability": 0.8936309218406677
+        },
+        {
+          "word": "Ra,",
+          "start": 165.46,
+          "end": 165.46,
+          "probability": 0.8939715623855591
+        },
+        {
+          "word": "Ra....",
+          "start": 165.46,
+          "end": 169.84,
+          "probability": 0.4625608869828284
+        }
+      ]
+    },
+    {
+      "start": 198.42,
+      "end": 199.82,
+      "text": "SILILILILILILILiling",
+      "words": [
+        {
+          "word": "SILILILILILILILiling",
+          "start": 198.42,
+          "end": 199.82,
+          "probability": 0.4439337510492199
+        }
+      ]
+    },
+    {
+      "start": 229.82,
+      "end": 231.4,
+      "text": "Yiyorum \u00e4u...",
+      "words": [
+        {
+          "word": "Yiyorum",
+          "start": 229.82,
+          "end": 230.6,
+          "probability": 0.015649903695248213
+        },
+        {
+          "word": "\u00e4u...",
+          "start": 230.6,
+          "end": 231.4,
+          "probability": 0.009277577298538139
+        }
+      ]
+    },
+    {
+      "start": 232.51999999999998,
+      "end": 234.9,
+      "text": "Oysel veta mustun...",
+      "words": [
+        {
+          "word": "Oysel",
+          "start": 232.51999999999998,
+          "end": 233.26,
+          "probability": 0.0001849020970894344
+        },
+        {
+          "word": "veta",
+          "start": 233.26,
+          "end": 233.48,
+          "probability": 0.040295476515893824
+        },
+        {
+          "word": "mustun...",
+          "start": 233.48,
+          "end": 234.9,
+          "probability": 0.06710472469664334
+        }
+      ]
+    },
+    {
+      "start": 234.9,
+      "end": 237.94,
+      "text": "Mae horseunilabarayun ki..",
+      "words": [
+        {
+          "word": "Mae",
+          "start": 234.9,
+          "end": 235.42,
+          "probability": 0.0027228028047829866
+        },
+        {
+          "word": "horseunilabarayun",
+          "start": 235.42,
+          "end": 236.9,
+          "probability": 0.36297563613853917
+        },
+        {
+          "word": "ki..",
+          "start": 236.9,
+          "end": 237.94,
+          "probability": 0.10083775036036968
+        }
+      ]
+    },
+    {
+      "start": 237.94,
+      "end": 238.72,
+      "text": "Y Beauty \uc218\ub9ce",
+      "words": [
+        {
+          "word": "Y",
+          "start": 237.94,
+          "end": 238.04,
+          "probability": 0.4162251651287079
+        },
+        {
+          "word": "Beauty",
+          "start": 238.04,
+          "end": 238.42,
+          "probability": 1.618899432287435e-07
+        },
+        {
+          "word": "\uc218\ub9ce",
+          "start": 238.42,
+          "end": 238.72,
+          "probability": 0.4292700058425301
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "hairoo!",
+      "start": 120.0,
+      "end": 120.72,
+      "probability": 0.005718092369988881
+    },
+    {
+      "word": "keinur",
+      "start": 123.02,
+      "end": 123.72,
+      "probability": 0.000532749265403254
+    },
+    {
+      "word": "I",
+      "start": 124.42,
+      "end": 124.42,
+      "probability": 0.020376885309815407
+    },
+    {
+      "word": "don't",
+      "start": 124.42,
+      "end": 124.46,
+      "probability": 0.506864745169878
+    },
+    {
+      "word": "know",
+      "start": 124.46,
+      "end": 124.46,
+      "probability": 0.1732514202594757
+    },
+    {
+      "word": "whether",
+      "start": 124.46,
+      "end": 125.34,
+      "probability": 0.0030178159940987825
+    },
+    {
+      "word": "you",
+      "start": 125.34,
+      "end": 126.12,
+      "probability": 0.12348021566867828
+    },
+    {
+      "word": "fall",
+      "start": 126.12,
+      "end": 127.32,
+      "probability": 0.0004297073755878955
+    },
+    {
+      "word": "and",
+      "start": 127.32,
+      "end": 127.32,
+      "probability": 0.018683524802327156
+    },
+    {
+      "word": "Iland",
+      "start": 127.32,
+      "end": 130.24,
+      "probability": 0.029479687536195343
+    },
+    {
+      "word": "\ud83c\uddfcdled",
+      "start": 136.2,
+      "end": 137.6,
+      "probability": 0.006916162597519815
+    },
+    {
+      "word": "scalp",
+      "start": 137.6,
+      "end": 137.6,
+      "probability": 1.0116450539499056e-05
+    },
+    {
+      "word": "Centre",
+      "start": 137.6,
+      "end": 138.22,
+      "probability": 2.4285762265208177e-05
+    },
+    {
+      "word": "expects!",
+      "start": 138.22,
+      "end": 140.44,
+      "probability": 3.855709110212047e-06
+    },
+    {
+      "word": "fitness",
+      "start": 141.74,
+      "end": 142.2,
+      "probability": 1.1771012395911384e-06
+    },
+    {
+      "word": "\ud83c\udfc3",
+      "start": 158.73999999999998,
+      "end": 160.14,
+      "probability": 0.03503622093315547
+    },
+    {
+      "word": "\u2026Ahoul",
+      "start": 160.24,
+      "end": 161.0,
+      "probability": 0.00033592756638730253
+    },
+    {
+      "word": "Know",
+      "start": 161.0,
+      "end": 163.24,
+      "probability": 4.422329311637441e-06
+    },
+    {
+      "word": "Na,",
+      "start": 163.24,
+      "end": 163.56,
+      "probability": 0.02742411009967327
+    },
+    {
+      "word": "Ra,",
+      "start": 163.64,
+      "end": 164.08,
+      "probability": 0.00817301869392395
+    },
+    {
+      "word": "Ra,",
+      "start": 164.08,
+      "end": 164.64,
+      "probability": 0.9484158158302307
+    },
+    {
+      "word": "Ra,",
+      "start": 164.68,
+      "end": 165.0,
+      "probability": 0.8936309218406677
+    },
+    {
+      "word": "Ra,",
+      "start": 165.46,
+      "end": 165.46,
+      "probability": 0.8939715623855591
+    },
+    {
+      "word": "Ra....",
+      "start": 165.46,
+      "end": 169.84,
+      "probability": 0.4625608869828284
+    },
+    {
+      "word": "SILILILILILILILiling",
+      "start": 198.42,
+      "end": 199.82,
+      "probability": 0.4439337510492199
+    },
+    {
+      "word": "Yiyorum",
+      "start": 229.82,
+      "end": 230.6,
+      "probability": 0.015649903695248213
+    },
+    {
+      "word": "\u00e4u...",
+      "start": 230.6,
+      "end": 231.4,
+      "probability": 0.009277577298538139
+    },
+    {
+      "word": "Oysel",
+      "start": 232.51999999999998,
+      "end": 233.26,
+      "probability": 0.0001849020970894344
+    },
+    {
+      "word": "veta",
+      "start": 233.26,
+      "end": 233.48,
+      "probability": 0.040295476515893824
+    },
+    {
+      "word": "mustun...",
+      "start": 233.48,
+      "end": 234.9,
+      "probability": 0.06710472469664334
+    },
+    {
+      "word": "Mae",
+      "start": 234.9,
+      "end": 235.42,
+      "probability": 0.0027228028047829866
+    },
+    {
+      "word": "horseunilabarayun",
+      "start": 235.42,
+      "end": 236.9,
+      "probability": 0.36297563613853917
+    },
+    {
+      "word": "ki..",
+      "start": 236.9,
+      "end": 237.94,
+      "probability": 0.10083775036036968
+    },
+    {
+      "word": "Y",
+      "start": 237.94,
+      "end": 238.04,
+      "probability": 0.4162251651287079
+    },
+    {
+      "word": "Beauty",
+      "start": 238.04,
+      "end": 238.42,
+      "probability": 1.618899432287435e-07
+    },
+    {
+      "word": "\uc218\ub9ce",
+      "start": 238.42,
+      "end": 238.72,
+      "probability": 0.4292700058425301
+    }
+  ],
+  "metadata": {
+    "model": "tiny",
+    "device": "cpu",
+    "detected_language": "te",
+    "duration": 0,
+    "segments_count": 17,
+    "words_count": 36
+  }
+}

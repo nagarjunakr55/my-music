@@ -1,0 +1,179 @@
+{
+  "language": "te",
+  "text": "\u0c15\u0c3e\u0c32\u0c3f\u0c15\u0c3e \u0c2a\u0c3f\u0c28\u0c3f\u0c28\u0c40 \u0c06\u0c32\u0c3f\u0c15\u0c3f \u0c2e\u0c3f\u0c15\u0c3e \u0c2e\u0c3e\u0c30\u0c3e\u0c15\u0c3f \u0c28\u0c3f\u0c28\u0c40 \u0c05\u0c06\u0c32\u0c3f\u0c15\u0c3f. \u0c06\u0c32\u0c3f\u0c15\u0c3e \u0c15\u0c3f\u0c15\u0c3e \u0c38\u0c42\u0c35\u0c3e\u0c32\u0c3f\u0c15\u0c3f \u0c2a\u0c3f\u0c28\u0c40 \u0c15\u0c3f\u0c15\u0c3f\u0c15\u0c3f.",
+  "segments": [
+    {
+      "start": 92.38,
+      "end": 100.48,
+      "text": "\u0c15\u0c3e\u0c32\u0c3f\u0c15\u0c3e \u0c2a\u0c3f\u0c28\u0c3f\u0c28\u0c40 \u0c06\u0c32\u0c3f\u0c15\u0c3f \u0c2e\u0c3f\u0c15\u0c3e \u0c2e\u0c3e\u0c30\u0c3e\u0c15\u0c3f \u0c28\u0c3f\u0c28\u0c40 \u0c05\u0c06\u0c32\u0c3f\u0c15\u0c3f.",
+      "words": [
+        {
+          "word": "\u0c15\u0c3e\u0c32\u0c3f\u0c15\u0c3e",
+          "start": 92.38,
+          "end": 93.78,
+          "probability": 0.41916580899403644
+        },
+        {
+          "word": "\u0c2a\u0c3f\u0c28\u0c3f\u0c28\u0c40",
+          "start": 93.78,
+          "end": 95.18,
+          "probability": 0.41618771564501983
+        },
+        {
+          "word": "\u0c06\u0c32\u0c3f\u0c15\u0c3f",
+          "start": 95.18,
+          "end": 95.82,
+          "probability": 0.5047827413813635
+        },
+        {
+          "word": "\u0c2e\u0c3f\u0c15\u0c3e",
+          "start": 95.82,
+          "end": 97.34,
+          "probability": 0.46902168956067825
+        },
+        {
+          "word": "\u0c2e\u0c3e\u0c30\u0c3e\u0c15\u0c3f",
+          "start": 97.34,
+          "end": 98.18,
+          "probability": 0.47657703436337984
+        },
+        {
+          "word": "\u0c28\u0c3f\u0c28\u0c40",
+          "start": 98.18,
+          "end": 100.1,
+          "probability": 0.5136698227789667
+        },
+        {
+          "word": "\u0c05\u0c06\u0c32\u0c3f\u0c15\u0c3f.",
+          "start": 100.1,
+          "end": 100.48,
+          "probability": 0.5588782836611454
+        }
+      ]
+    },
+    {
+      "start": 100.96,
+      "end": 110.58,
+      "text": "\u0c06\u0c32\u0c3f\u0c15\u0c3e \u0c15\u0c3f\u0c15\u0c3e \u0c38\u0c42\u0c35\u0c3e\u0c32\u0c3f\u0c15\u0c3f \u0c2a\u0c3f\u0c28\u0c40 \u0c15\u0c3f\u0c15\u0c3f\u0c15\u0c3f.",
+      "words": [
+        {
+          "word": "\u0c06\u0c32\u0c3f\u0c15\u0c3e",
+          "start": 100.96,
+          "end": 102.36,
+          "probability": 0.692376215688207
+        },
+        {
+          "word": "\u0c15\u0c3f\u0c15\u0c3e",
+          "start": 102.36,
+          "end": 104.24,
+          "probability": 0.5985432399643792
+        },
+        {
+          "word": "\u0c38\u0c42\u0c35\u0c3e\u0c32\u0c3f\u0c15\u0c3f",
+          "start": 104.24,
+          "end": 109.58,
+          "probability": 0.4756194527315743
+        },
+        {
+          "word": "\u0c2a\u0c3f\u0c28\u0c40",
+          "start": 109.58,
+          "end": 110.26,
+          "probability": 0.5232715374893613
+        },
+        {
+          "word": "\u0c15\u0c3f\u0c15\u0c3f\u0c15\u0c3f.",
+          "start": 110.26,
+          "end": 110.58,
+          "probability": 0.6440953279917057
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "\u0c15\u0c3e\u0c32\u0c3f\u0c15\u0c3e",
+      "start": 92.38,
+      "end": 93.78,
+      "probability": 0.41916580899403644
+    },
+    {
+      "word": "\u0c2a\u0c3f\u0c28\u0c3f\u0c28\u0c40",
+      "start": 93.78,
+      "end": 95.18,
+      "probability": 0.41618771564501983
+    },
+    {
+      "word": "\u0c06\u0c32\u0c3f\u0c15\u0c3f",
+      "start": 95.18,
+      "end": 95.82,
+      "probability": 0.5047827413813635
+    },
+    {
+      "word": "\u0c2e\u0c3f\u0c15\u0c3e",
+      "start": 95.82,
+      "end": 97.34,
+      "probability": 0.46902168956067825
+    },
+    {
+      "word": "\u0c2e\u0c3e\u0c30\u0c3e\u0c15\u0c3f",
+      "start": 97.34,
+      "end": 98.18,
+      "probability": 0.47657703436337984
+    },
+    {
+      "word": "\u0c28\u0c3f\u0c28\u0c40",
+      "start": 98.18,
+      "end": 100.1,
+      "probability": 0.5136698227789667
+    },
+    {
+      "word": "\u0c05\u0c06\u0c32\u0c3f\u0c15\u0c3f.",
+      "start": 100.1,
+      "end": 100.48,
+      "probability": 0.5588782836611454
+    },
+    {
+      "word": "\u0c06\u0c32\u0c3f\u0c15\u0c3e",
+      "start": 100.96,
+      "end": 102.36,
+      "probability": 0.692376215688207
+    },
+    {
+      "word": "\u0c15\u0c3f\u0c15\u0c3e",
+      "start": 102.36,
+      "end": 104.24,
+      "probability": 0.5985432399643792
+    },
+    {
+      "word": "\u0c38\u0c42\u0c35\u0c3e\u0c32\u0c3f\u0c15\u0c3f",
+      "start": 104.24,
+      "end": 109.58,
+      "probability": 0.4756194527315743
+    },
+    {
+      "word": "\u0c2a\u0c3f\u0c28\u0c40",
+      "start": 109.58,
+      "end": 110.26,
+      "probability": 0.5232715374893613
+    },
+    {
+      "word": "\u0c15\u0c3f\u0c15\u0c3f\u0c15\u0c3f.",
+      "start": 110.26,
+      "end": 110.58,
+      "probability": 0.6440953279917057
+    }
+  ],
+  "metadata": {
+    "model": "small",
+    "device": "cpu",
+    "detected_language": "te",
+    "explicit_language": null,
+    "duration": 0,
+    "segments_count": 2,
+    "words_count": 12,
+    "avg_probability": 0.5243490725208181,
+    "median_probability": 0.5092262820801651,
+    "low_confidence_count": 0,
+    "low_confidence_threshold": 0.3
+  }
+}

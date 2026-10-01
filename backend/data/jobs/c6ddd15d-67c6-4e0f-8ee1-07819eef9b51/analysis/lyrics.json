@@ -1,0 +1,1091 @@
+{
+  "language": "te",
+  "text": "\u30c8          \u90a3    \u5c0f   \u6c92\u6709  \u6211      \u6211   ! S 7  00 Blum pck Bebebebebebebebebebebbbbh ga Saebei SLI\u0644\u0627 \u2013 JLa....Panayu.... \u2013\u9019\u88e1 we get an umbrella in this hut, We come here to eat our entire life well? \u2013 Yeah... \u03c4\u7de3 \u0418iences te nobooks ne<|th|> artists ne even te bestoen na semanasun i mavenFl \u3058 from there glich yelavanu ia Ma \u043d\u0443vi li kad li m\u00edstonina libuse\u5909pignu \uac19i gli\u0161i kacha rea Priya Krita \u2026\u3044\u307e\u3059\u2026 \u2026reading",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 20.1,
+      "text": "\u30c8          \u90a3    \u5c0f   \u6c92\u6709  \u6211      \u6211   !",
+      "words": [
+        {
+          "word": "\u30c8",
+          "start": 0.0,
+          "end": 0.0,
+          "probability": 0.002224586787633598
+        },
+        {
+          "word": "\u90a3",
+          "start": 2.16,
+          "end": 12.3,
+          "probability": 0.007882492616772652
+        },
+        {
+          "word": "\u5c0f",
+          "start": 12.3,
+          "end": 19.96,
+          "probability": 0.004606481641530991
+        },
+        {
+          "word": "\u6c92\u6709",
+          "start": 20.04,
+          "end": 20.04,
+          "probability": 0.00282076932489872
+        },
+        {
+          "word": "\u6211",
+          "start": 20.04,
+          "end": 20.04,
+          "probability": 0.0159178264439106
+        },
+        {
+          "word": "\u6211",
+          "start": 20.06,
+          "end": 20.06,
+          "probability": 0.046247031539678574
+        },
+        {
+          "word": "!",
+          "start": 20.1,
+          "end": 20.1,
+          "probability": 9.380472329212353e-05
+        }
+      ]
+    },
+    {
+      "start": 21.540000000000003,
+      "end": 22.94,
+      "text": "S 7  00",
+      "words": [
+        {
+          "word": "S",
+          "start": 21.540000000000003,
+          "end": 22.94,
+          "probability": 0.0003141651686746627
+        },
+        {
+          "word": "7",
+          "start": 22.94,
+          "end": 22.94,
+          "probability": 0.0003788188623730093
+        },
+        {
+          "word": "00",
+          "start": 22.94,
+          "end": 22.94,
+          "probability": 0.0005321061471477151
+        }
+      ]
+    },
+    {
+      "start": 22.94,
+      "end": 25.14,
+      "text": "Blum",
+      "words": [
+        {
+          "word": "Blum",
+          "start": 22.94,
+          "end": 25.14,
+          "probability": 0.0009266565480174904
+        }
+      ]
+    },
+    {
+      "start": 25.14,
+      "end": 25.66,
+      "text": "pck",
+      "words": [
+        {
+          "word": "pck",
+          "start": 25.14,
+          "end": 25.66,
+          "probability": 0.0003106382500845939
+        }
+      ]
+    },
+    {
+      "start": 25.66,
+      "end": 25.66,
+      "text": "",
+      "words": null
+    },
+    {
+      "start": 25.66,
+      "end": 27.34,
+      "text": "Bebebebebebebebebebebbbbh ga",
+      "words": [
+        {
+          "word": "Bebebebebebebebebebebbbbh",
+          "start": 25.66,
+          "end": 25.88,
+          "probability": 0.39952022424598305
+        },
+        {
+          "word": "ga",
+          "start": 25.88,
+          "end": 27.34,
+          "probability": 0.0015363990678451955
+        }
+      ]
+    },
+    {
+      "start": 27.34,
+      "end": 27.9,
+      "text": "Saebei",
+      "words": [
+        {
+          "word": "Saebei",
+          "start": 27.34,
+          "end": 27.9,
+          "probability": 0.0054419916777987964
+        }
+      ]
+    },
+    {
+      "start": 29.76,
+      "end": 29.98,
+      "text": "SLI\u0644\u0627",
+      "words": [
+        {
+          "word": "SLI\u0644\u0627",
+          "start": 29.28,
+          "end": 29.98,
+          "probability": 0.010465934308740543
+        }
+      ]
+    },
+    {
+      "start": 29.98,
+      "end": 32.3,
+      "text": "\u2013 JLa....Panayu....",
+      "words": [
+        {
+          "word": "\u2013",
+          "start": 29.98,
+          "end": 30.22,
+          "probability": 0.013394997455179691
+        },
+        {
+          "word": "JLa....Panayu....",
+          "start": 30.22,
+          "end": 32.3,
+          "probability": 0.11711764605024655
+        }
+      ]
+    },
+    {
+      "start": 32.3,
+      "end": 35.96,
+      "text": "\u2013\u9019\u88e1 we get an umbrella in this hut,",
+      "words": [
+        {
+          "word": "\u2013\u9019\u88e1",
+          "start": 32.3,
+          "end": 33.1,
+          "probability": 0.45543764169997303
+        },
+        {
+          "word": "we",
+          "start": 33.1,
+          "end": 33.68,
+          "probability": 0.0012912072706967592
+        },
+        {
+          "word": "get",
+          "start": 33.68,
+          "end": 34.04,
+          "probability": 0.006044552195817232
+        },
+        {
+          "word": "an",
+          "start": 34.04,
+          "end": 34.26,
+          "probability": 0.01186287123709917
+        },
+        {
+          "word": "umbrella",
+          "start": 34.26,
+          "end": 34.26,
+          "probability": 0.006626151502132416
+        },
+        {
+          "word": "in",
+          "start": 34.26,
+          "end": 35.72,
+          "probability": 0.013007575646042824
+        },
+        {
+          "word": "this",
+          "start": 35.72,
+          "end": 35.96,
+          "probability": 0.1683504730463028
+        },
+        {
+          "word": "hut,",
+          "start": 35.96,
+          "end": 35.96,
+          "probability": 0.003033896442502737
+        }
+      ]
+    },
+    {
+      "start": 35.96,
+      "end": 47.56,
+      "text": "We come here to eat our entire life well?",
+      "words": [
+        {
+          "word": "We",
+          "start": 35.96,
+          "end": 35.98,
+          "probability": 0.007221986539661884
+        },
+        {
+          "word": "come",
+          "start": 35.98,
+          "end": 35.98,
+          "probability": 0.008122451603412628
+        },
+        {
+          "word": "here",
+          "start": 35.98,
+          "end": 39.34,
+          "probability": 0.16542811691761017
+        },
+        {
+          "word": "to",
+          "start": 39.34,
+          "end": 41.48,
+          "probability": 0.3534502685070038
+        },
+        {
+          "word": "eat",
+          "start": 41.48,
+          "end": 42.58,
+          "probability": 0.018007822334766388
+        },
+        {
+          "word": "our",
+          "start": 42.58,
+          "end": 44.1,
+          "probability": 0.04132077842950821
+        },
+        {
+          "word": "entire",
+          "start": 44.1,
+          "end": 47.56,
+          "probability": 0.0008518566028214991
+        },
+        {
+          "word": "life",
+          "start": 47.56,
+          "end": 47.56,
+          "probability": 0.050496477633714676
+        },
+        {
+          "word": "well?",
+          "start": 47.56,
+          "end": 47.56,
+          "probability": 0.0004073191375937313
+        }
+      ]
+    },
+    {
+      "start": 48.08,
+      "end": 50.6,
+      "text": "\u2013 Yeah...",
+      "words": [
+        {
+          "word": "\u2013",
+          "start": 48.08,
+          "end": 48.08,
+          "probability": 0.6060009002685547
+        },
+        {
+          "word": "Yeah...",
+          "start": 48.08,
+          "end": 50.6,
+          "probability": 0.036122182849794626
+        }
+      ]
+    },
+    {
+      "start": 119.98,
+      "end": 120.84,
+      "text": "\u03c4\u7de3",
+      "words": [
+        {
+          "word": "\u03c4\u7de3",
+          "start": 119.98,
+          "end": 120.84,
+          "probability": 0.2768665922873576
+        }
+      ]
+    },
+    {
+      "start": 123.26,
+      "end": 125.76,
+      "text": "\u0418iences te nobooks ne",
+      "words": [
+        {
+          "word": "\u0418iences",
+          "start": 123.26,
+          "end": 124.0,
+          "probability": 2.033003511314746e-06
+        },
+        {
+          "word": "te",
+          "start": 124.0,
+          "end": 124.3,
+          "probability": 0.30136895179748535
+        },
+        {
+          "word": "nobooks",
+          "start": 124.3,
+          "end": 124.98,
+          "probability": 0.2992272545261585
+        },
+        {
+          "word": "ne",
+          "start": 124.98,
+          "end": 125.76,
+          "probability": 0.03742888942360878
+        }
+      ]
+    },
+    {
+      "start": 125.76,
+      "end": 128.48,
+      "text": "artists ne even te bestoen na",
+      "words": [
+        {
+          "word": "artists",
+          "start": 125.76,
+          "end": 126.68,
+          "probability": 1.4623160495830234e-06
+        },
+        {
+          "word": "ne",
+          "start": 126.68,
+          "end": 126.68,
+          "probability": 0.1872156858444214
+        },
+        {
+          "word": "even",
+          "start": 126.68,
+          "end": 126.68,
+          "probability": 0.001096301362849772
+        },
+        {
+          "word": "te",
+          "start": 126.68,
+          "end": 126.96,
+          "probability": 0.8476316928863525
+        },
+        {
+          "word": "bestoen",
+          "start": 126.96,
+          "end": 127.78,
+          "probability": 0.027056893644233544
+        },
+        {
+          "word": "na",
+          "start": 127.78,
+          "end": 128.48,
+          "probability": 0.05847642943263054
+        }
+      ]
+    },
+    {
+      "start": 128.48,
+      "end": 130.82,
+      "text": "semanasun i mavenFl \u3058",
+      "words": [
+        {
+          "word": "semanasun",
+          "start": 128.48,
+          "end": 129.22,
+          "probability": 0.011012353817932308
+        },
+        {
+          "word": "i",
+          "start": 129.22,
+          "end": 129.32,
+          "probability": 0.08704399317502975
+        },
+        {
+          "word": "mavenFl",
+          "start": 129.32,
+          "end": 130.44,
+          "probability": 0.04009140243768646
+        },
+        {
+          "word": "\u3058",
+          "start": 130.44,
+          "end": 130.82,
+          "probability": 0.08905606198459282
+        }
+      ]
+    },
+    {
+      "start": 130.82,
+      "end": 131.12,
+      "text": "from there",
+      "words": [
+        {
+          "word": "from",
+          "start": 130.82,
+          "end": 131.12,
+          "probability": 9.008990309666842e-05
+        },
+        {
+          "word": "there",
+          "start": 131.12,
+          "end": 131.12,
+          "probability": 0.0021921631414443254
+        }
+      ]
+    },
+    {
+      "start": 131.12,
+      "end": 133.18,
+      "text": "glich yelavanu",
+      "words": [
+        {
+          "word": "glich",
+          "start": 131.12,
+          "end": 131.34,
+          "probability": 0.0041780994121533395
+        },
+        {
+          "word": "yelavanu",
+          "start": 131.34,
+          "end": 133.18,
+          "probability": 0.15277668426278979
+        }
+      ]
+    },
+    {
+      "start": 133.7,
+      "end": 136.26,
+      "text": "ia Ma \u043d\u0443vi li kad li m\u00edstonina",
+      "words": [
+        {
+          "word": "ia",
+          "start": 133.7,
+          "end": 134.42,
+          "probability": 0.0018336009234189987
+        },
+        {
+          "word": "Ma",
+          "start": 134.42,
+          "end": 134.72,
+          "probability": 9.944579687726218e-06
+        },
+        {
+          "word": "\u043d\u0443vi",
+          "start": 134.72,
+          "end": 134.72,
+          "probability": 0.0011593968147280975
+        },
+        {
+          "word": "li",
+          "start": 134.72,
+          "end": 134.72,
+          "probability": 0.002909915056079626
+        },
+        {
+          "word": "kad",
+          "start": 134.72,
+          "end": 134.72,
+          "probability": 0.00037405520561151206
+        },
+        {
+          "word": "li",
+          "start": 134.72,
+          "end": 134.92,
+          "probability": 0.28954455256462097
+        },
+        {
+          "word": "m\u00edstonina",
+          "start": 134.92,
+          "end": 136.26,
+          "probability": 0.20767425384838134
+        }
+      ]
+    },
+    {
+      "start": 136.26,
+      "end": 138.58,
+      "text": "libuse\u5909pignu",
+      "words": [
+        {
+          "word": "libuse\u5909pignu",
+          "start": 136.26,
+          "end": 138.58,
+          "probability": 0.04829669450191432
+        }
+      ]
+    },
+    {
+      "start": 138.58,
+      "end": 140.28,
+      "text": "\uac19i gli\u0161i kacha",
+      "words": [
+        {
+          "word": "\uac19i",
+          "start": 138.58,
+          "end": 139.46,
+          "probability": 0.25705986701541406
+        },
+        {
+          "word": "gli\u0161i",
+          "start": 139.46,
+          "end": 140.14,
+          "probability": 0.06743144911160925
+        },
+        {
+          "word": "kacha",
+          "start": 140.14,
+          "end": 140.83999999999997,
+          "probability": 0.011683341666866909
+        }
+      ]
+    },
+    {
+      "start": 143.04,
+      "end": 144.44,
+      "text": "rea",
+      "words": [
+        {
+          "word": "rea",
+          "start": 143.04,
+          "end": 144.44,
+          "probability": 0.01788108013170131
+        }
+      ]
+    },
+    {
+      "start": 148.73999999999998,
+      "end": 150.14,
+      "text": "Priya",
+      "words": [
+        {
+          "word": "Priya",
+          "start": 148.73999999999998,
+          "end": 150.14,
+          "probability": 0.2082313787250314
+        }
+      ]
+    },
+    {
+      "start": 167.57999999999998,
+      "end": 168.98,
+      "text": "Krita",
+      "words": [
+        {
+          "word": "Krita",
+          "start": 167.57999999999998,
+          "end": 168.98,
+          "probability": 0.1687208263319917
+        }
+      ]
+    },
+    {
+      "start": 203.0,
+      "end": 204.4,
+      "text": "\u2026",
+      "words": [
+        {
+          "word": "\u2026\u3044\u307e\u3059\u2026",
+          "start": 203.0,
+          "end": 204.4,
+          "probability": 0.025593733006492887
+        }
+      ]
+    },
+    {
+      "start": 204.4,
+      "end": 204.42,
+      "text": "\u3044\u307e\u3059\u2026",
+      "words": [
+        {
+          "word": "\u2026",
+          "start": 204.4,
+          "end": 204.42,
+          "probability": 0.36818045377731323
+        }
+      ]
+    },
+    {
+      "start": 190.84,
+      "end": 193.54,
+      "text": "\u2026",
+      "words": null
+    },
+    {
+      "start": 234.42,
+      "end": 235.68,
+      "text": "reading",
+      "words": [
+        {
+          "word": "reading",
+          "start": 234.42,
+          "end": 235.68,
+          "probability": 1.8184011423727497e-05
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "\u30c8",
+      "start": 0.0,
+      "end": 0.0,
+      "probability": 0.002224586787633598
+    },
+    {
+      "word": "\u90a3",
+      "start": 2.16,
+      "end": 12.3,
+      "probability": 0.007882492616772652
+    },
+    {
+      "word": "\u5c0f",
+      "start": 12.3,
+      "end": 19.96,
+      "probability": 0.004606481641530991
+    },
+    {
+      "word": "\u6c92\u6709",
+      "start": 20.04,
+      "end": 20.04,
+      "probability": 0.00282076932489872
+    },
+    {
+      "word": "\u6211",
+      "start": 20.04,
+      "end": 20.04,
+      "probability": 0.0159178264439106
+    },
+    {
+      "word": "\u6211",
+      "start": 20.06,
+      "end": 20.06,
+      "probability": 0.046247031539678574
+    },
+    {
+      "word": "!",
+      "start": 20.1,
+      "end": 20.1,
+      "probability": 9.380472329212353e-05
+    },
+    {
+      "word": "S",
+      "start": 21.540000000000003,
+      "end": 22.94,
+      "probability": 0.0003141651686746627
+    },
+    {
+      "word": "7",
+      "start": 22.94,
+      "end": 22.94,
+      "probability": 0.0003788188623730093
+    },
+    {
+      "word": "00",
+      "start": 22.94,
+      "end": 22.94,
+      "probability": 0.0005321061471477151
+    },
+    {
+      "word": "Blum",
+      "start": 22.94,
+      "end": 25.14,
+      "probability": 0.0009266565480174904
+    },
+    {
+      "word": "pck",
+      "start": 25.14,
+      "end": 25.66,
+      "probability": 0.0003106382500845939
+    },
+    {
+      "word": "Bebebebebebebebebebebbbbh",
+      "start": 25.66,
+      "end": 25.88,
+      "probability": 0.39952022424598305
+    },
+    {
+      "word": "ga",
+      "start": 25.88,
+      "end": 27.34,
+      "probability": 0.0015363990678451955
+    },
+    {
+      "word": "Saebei",
+      "start": 27.34,
+      "end": 27.9,
+      "probability": 0.0054419916777987964
+    },
+    {
+      "word": "SLI\u0644\u0627",
+      "start": 29.28,
+      "end": 29.98,
+      "probability": 0.010465934308740543
+    },
+    {
+      "word": "\u2013",
+      "start": 29.98,
+      "end": 30.22,
+      "probability": 0.013394997455179691
+    },
+    {
+      "word": "JLa....Panayu....",
+      "start": 30.22,
+      "end": 32.3,
+      "probability": 0.11711764605024655
+    },
+    {
+      "word": "\u2013\u9019\u88e1",
+      "start": 32.3,
+      "end": 33.1,
+      "probability": 0.45543764169997303
+    },
+    {
+      "word": "we",
+      "start": 33.1,
+      "end": 33.68,
+      "probability": 0.0012912072706967592
+    },
+    {
+      "word": "get",
+      "start": 33.68,
+      "end": 34.04,
+      "probability": 0.006044552195817232
+    },
+    {
+      "word": "an",
+      "start": 34.04,
+      "end": 34.26,
+      "probability": 0.01186287123709917
+    },
+    {
+      "word": "umbrella",
+      "start": 34.26,
+      "end": 34.26,
+      "probability": 0.006626151502132416
+    },
+    {
+      "word": "in",
+      "start": 34.26,
+      "end": 35.72,
+      "probability": 0.013007575646042824
+    },
+    {
+      "word": "this",
+      "start": 35.72,
+      "end": 35.96,
+      "probability": 0.1683504730463028
+    },
+    {
+      "word": "hut,",
+      "start": 35.96,
+      "end": 35.96,
+      "probability": 0.003033896442502737
+    },
+    {
+      "word": "We",
+      "start": 35.96,
+      "end": 35.98,
+      "probability": 0.007221986539661884
+    },
+    {
+      "word": "come",
+      "start": 35.98,
+      "end": 35.98,
+      "probability": 0.008122451603412628
+    },
+    {
+      "word": "here",
+      "start": 35.98,
+      "end": 39.34,
+      "probability": 0.16542811691761017
+    },
+    {
+      "word": "to",
+      "start": 39.34,
+      "end": 41.48,
+      "probability": 0.3534502685070038
+    },
+    {
+      "word": "eat",
+      "start": 41.48,
+      "end": 42.58,
+      "probability": 0.018007822334766388
+    },
+    {
+      "word": "our",
+      "start": 42.58,
+      "end": 44.1,
+      "probability": 0.04132077842950821
+    },
+    {
+      "word": "entire",
+      "start": 44.1,
+      "end": 47.56,
+      "probability": 0.0008518566028214991
+    },
+    {
+      "word": "life",
+      "start": 47.56,
+      "end": 47.56,
+      "probability": 0.050496477633714676
+    },
+    {
+      "word": "well?",
+      "start": 47.56,
+      "end": 47.56,
+      "probability": 0.0004073191375937313
+    },
+    {
+      "word": "\u2013",
+      "start": 48.08,
+      "end": 48.08,
+      "probability": 0.6060009002685547
+    },
+    {
+      "word": "Yeah...",
+      "start": 48.08,
+      "end": 50.6,
+      "probability": 0.036122182849794626
+    },
+    {
+      "word": "\u03c4\u7de3",
+      "start": 119.98,
+      "end": 120.84,
+      "probability": 0.2768665922873576
+    },
+    {
+      "word": "\u0418iences",
+      "start": 123.26,
+      "end": 124.0,
+      "probability": 2.033003511314746e-06
+    },
+    {
+      "word": "te",
+      "start": 124.0,
+      "end": 124.3,
+      "probability": 0.30136895179748535
+    },
+    {
+      "word": "nobooks",
+      "start": 124.3,
+      "end": 124.98,
+      "probability": 0.2992272545261585
+    },
+    {
+      "word": "ne",
+      "start": 124.98,
+      "end": 125.76,
+      "probability": 0.03742888942360878
+    },
+    {
+      "word": "artists",
+      "start": 125.76,
+      "end": 126.68,
+      "probability": 1.4623160495830234e-06
+    },
+    {
+      "word": "ne",
+      "start": 126.68,
+      "end": 126.68,
+      "probability": 0.1872156858444214
+    },
+    {
+      "word": "even",
+      "start": 126.68,
+      "end": 126.68,
+      "probability": 0.001096301362849772
+    },
+    {
+      "word": "te",
+      "start": 126.68,
+      "end": 126.96,
+      "probability": 0.8476316928863525
+    },
+    {
+      "word": "bestoen",
+      "start": 126.96,
+      "end": 127.78,
+      "probability": 0.027056893644233544
+    },
+    {
+      "word": "na",
+      "start": 127.78,
+      "end": 128.48,
+      "probability": 0.05847642943263054
+    },
+    {
+      "word": "semanasun",
+      "start": 128.48,
+      "end": 129.22,
+      "probability": 0.011012353817932308
+    },
+    {
+      "word": "i",
+      "start": 129.22,
+      "end": 129.32,
+      "probability": 0.08704399317502975
+    },
+    {
+      "word": "mavenFl",
+      "start": 129.32,
+      "end": 130.44,
+      "probability": 0.04009140243768646
+    },
+    {
+      "word": "\u3058",
+      "start": 130.44,
+      "end": 130.82,
+      "probability": 0.08905606198459282
+    },
+    {
+      "word": "from",
+      "start": 130.82,
+      "end": 131.12,
+      "probability": 9.008990309666842e-05
+    },
+    {
+      "word": "there",
+      "start": 131.12,
+      "end": 131.12,
+      "probability": 0.0021921631414443254
+    },
+    {
+      "word": "glich",
+      "start": 131.12,
+      "end": 131.34,
+      "probability": 0.0041780994121533395
+    },
+    {
+      "word": "yelavanu",
+      "start": 131.34,
+      "end": 133.18,
+      "probability": 0.15277668426278979
+    },
+    {
+      "word": "ia",
+      "start": 133.7,
+      "end": 134.42,
+      "probability": 0.0018336009234189987
+    },
+    {
+      "word": "Ma",
+      "start": 134.42,
+      "end": 134.72,
+      "probability": 9.944579687726218e-06
+    },
+    {
+      "word": "\u043d\u0443vi",
+      "start": 134.72,
+      "end": 134.72,
+      "probability": 0.0011593968147280975
+    },
+    {
+      "word": "li",
+      "start": 134.72,
+      "end": 134.72,
+      "probability": 0.002909915056079626
+    },
+    {
+      "word": "kad",
+      "start": 134.72,
+      "end": 134.72,
+      "probability": 0.00037405520561151206
+    },
+    {
+      "word": "li",
+      "start": 134.72,
+      "end": 134.92,
+      "probability": 0.28954455256462097
+    },
+    {
+      "word": "m\u00edstonina",
+      "start": 134.92,
+      "end": 136.26,
+      "probability": 0.20767425384838134
+    },
+    {
+      "word": "libuse\u5909pignu",
+      "start": 136.26,
+      "end": 138.58,
+      "probability": 0.04829669450191432
+    },
+    {
+      "word": "\uac19i",
+      "start": 138.58,
+      "end": 139.46,
+      "probability": 0.25705986701541406
+    },
+    {
+      "word": "gli\u0161i",
+      "start": 139.46,
+      "end": 140.14,
+      "probability": 0.06743144911160925
+    },
+    {
+      "word": "kacha",
+      "start": 140.14,
+      "end": 140.83999999999997,
+      "probability": 0.011683341666866909
+    },
+    {
+      "word": "rea",
+      "start": 143.04,
+      "end": 144.44,
+      "probability": 0.01788108013170131
+    },
+    {
+      "word": "Priya",
+      "start": 148.73999999999998,
+      "end": 150.14,
+      "probability": 0.2082313787250314
+    },
+    {
+      "word": "Krita",
+      "start": 167.57999999999998,
+      "end": 168.98,
+      "probability": 0.1687208263319917
+    },
+    {
+      "word": "\u2026\u3044\u307e\u3059\u2026",
+      "start": 203.0,
+      "end": 204.4,
+      "probability": 0.025593733006492887
+    },
+    {
+      "word": "\u2026",
+      "start": 204.4,
+      "end": 204.42,
+      "probability": 0.36818045377731323
+    },
+    {
+      "word": "reading",
+      "start": 234.42,
+      "end": 235.68,
+      "probability": 1.8184011423727497e-05
+    }
+  ],
+  "metadata": {
+    "model": "tiny",
+    "device": "cpu",
+    "detected_language": "te",
+    "explicit_language": null,
+    "duration": 0,
+    "segments_count": 28,
+    "words_count": 73,
+    "avg_probability": 0.09153743647474642,
+    "median_probability": 0.013007575646042824,
+    "low_confidence_count": 66,
+    "low_confidence_threshold": 0.3
+  }
+}

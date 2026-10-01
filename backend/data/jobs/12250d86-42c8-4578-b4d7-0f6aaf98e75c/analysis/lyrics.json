@@ -1,0 +1,107 @@
+{
+  "language": "te",
+  "text": "\u0c17\u0c3e\u0c30\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3e \u0c2e\u0c3e\u0c30\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c3f. \u0c17\u0c3e\u0c30\u0c3f\u0c28\u0c3f \u0c28\u0c3f\u0c28\u0c3f \u0c2a\u0c40\u0c1f\u0c41\u0c28\u0c02\u0c2a\u0c42\u0c24\u0c4d\u0c28\u0c4d\u0c1a\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c40\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3e\u0c30\u0c3f\u0c28\u0c40\u0c28\u0c40\u0c28\u0c40\u0c02\u0c26 \u0c2e\u0c32\u0c30\u0c3f\u0c28\u0c3f\u0c23\u0c3f\u0c28\u0c3f\u0c28\u0c3e\u0c24\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3f.",
+  "segments": [
+    {
+      "start": 88.33999999999999,
+      "end": 89.76,
+      "text": "\u0c17\u0c3e\u0c30\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3e \u0c2e\u0c3e\u0c30\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c3f.",
+      "words": [
+        {
+          "word": "\u0c17\u0c3e\u0c30\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3e",
+          "start": 88.33999999999999,
+          "end": 89.74,
+          "probability": 0.4113842997522581
+        },
+        {
+          "word": "\u0c2e\u0c3e\u0c30\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c3f.",
+          "start": 89.74,
+          "end": 89.76,
+          "probability": 0.5291399217901691
+        }
+      ]
+    },
+    {
+      "start": 91.46,
+      "end": 111.6,
+      "text": "\u0c17\u0c3e\u0c30\u0c3f\u0c28\u0c3f \u0c28\u0c3f\u0c28\u0c3f \u0c2a\u0c40\u0c1f\u0c41\u0c28\u0c02\u0c2a\u0c42\u0c24\u0c4d\u0c28\u0c4d\u0c1a\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c40\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3e\u0c30\u0c3f\u0c28\u0c40\u0c28\u0c40\u0c28\u0c40\u0c02\u0c26 \u0c2e\u0c32\u0c30\u0c3f\u0c28\u0c3f\u0c23\u0c3f\u0c28\u0c3f\u0c28\u0c3e\u0c24\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3f.",
+      "words": [
+        {
+          "word": "\u0c17\u0c3e\u0c30\u0c3f\u0c28\u0c3f",
+          "start": 91.46,
+          "end": 92.86,
+          "probability": 0.4514669053829633
+        },
+        {
+          "word": "\u0c28\u0c3f\u0c28\u0c3f",
+          "start": 92.86,
+          "end": 93.82,
+          "probability": 0.5543304243021541
+        },
+        {
+          "word": "\u0c2a\u0c40\u0c1f\u0c41\u0c28\u0c02\u0c2a\u0c42\u0c24\u0c4d\u0c28\u0c4d\u0c1a\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c40\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3e\u0c30\u0c3f\u0c28\u0c40\u0c28\u0c40\u0c28\u0c40\u0c02\u0c26",
+          "start": 93.82,
+          "end": 101.34,
+          "probability": 0.4252770696083705
+        },
+        {
+          "word": "\u0c2e\u0c32\u0c30\u0c3f\u0c28\u0c3f\u0c23\u0c3f\u0c28\u0c3f\u0c28\u0c3e\u0c24\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3f.",
+          "start": 101.34,
+          "end": 111.6,
+          "probability": 0.5416359146446467
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "\u0c17\u0c3e\u0c30\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3e",
+      "start": 88.33999999999999,
+      "end": 89.74,
+      "probability": 0.4113842997522581
+    },
+    {
+      "word": "\u0c2e\u0c3e\u0c30\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c3f.",
+      "start": 89.74,
+      "end": 89.76,
+      "probability": 0.5291399217901691
+    },
+    {
+      "word": "\u0c17\u0c3e\u0c30\u0c3f\u0c28\u0c3f",
+      "start": 91.46,
+      "end": 92.86,
+      "probability": 0.4514669053829633
+    },
+    {
+      "word": "\u0c28\u0c3f\u0c28\u0c3f",
+      "start": 92.86,
+      "end": 93.82,
+      "probability": 0.5543304243021541
+    },
+    {
+      "word": "\u0c2a\u0c40\u0c1f\u0c41\u0c28\u0c02\u0c2a\u0c42\u0c24\u0c4d\u0c28\u0c4d\u0c1a\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c40\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3e\u0c30\u0c3f\u0c28\u0c40\u0c28\u0c40\u0c28\u0c40\u0c02\u0c26",
+      "start": 93.82,
+      "end": 101.34,
+      "probability": 0.4252770696083705
+    },
+    {
+      "word": "\u0c2e\u0c32\u0c30\u0c3f\u0c28\u0c3f\u0c23\u0c3f\u0c28\u0c3f\u0c28\u0c3e\u0c24\u0c3f\u0c28\u0c3f\u0c28\u0c3f\u0c28\u0c3f.",
+      "start": 101.34,
+      "end": 111.6,
+      "probability": 0.5416359146446467
+    }
+  ],
+  "metadata": {
+    "model": "small",
+    "device": "cpu",
+    "detected_language": "te",
+    "explicit_language": null,
+    "duration": 0,
+    "segments_count": 2,
+    "words_count": 6,
+    "avg_probability": 0.4855390892467603,
+    "median_probability": 0.4903034135865662,
+    "low_confidence_count": 0,
+    "low_confidence_threshold": 0.3
+  }
+}

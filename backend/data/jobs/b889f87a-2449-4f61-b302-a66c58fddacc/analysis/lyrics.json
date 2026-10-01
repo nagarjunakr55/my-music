@@ -1,0 +1,59 @@
+{
+  "language": "te",
+  "text": "\u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c4d\u0c30\u0c3e\u0c2f\u0c4d\u0c30\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f. \u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c4d\u0c30\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e.",
+  "segments": [
+    {
+      "start": 137.68,
+      "end": 139.08,
+      "text": "\u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c4d\u0c30\u0c3e\u0c2f\u0c4d\u0c30\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f.",
+      "words": [
+        {
+          "word": "\u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c4d\u0c30\u0c3e\u0c2f\u0c4d\u0c30\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f.",
+          "start": 137.68,
+          "end": 139.08,
+          "probability": 0.49229424901045205
+        }
+      ]
+    },
+    {
+      "start": 193.44,
+      "end": 194.84,
+      "text": "\u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c4d\u0c30\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e.",
+      "words": [
+        {
+          "word": "\u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c4d\u0c30\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e.",
+          "start": 193.44,
+          "end": 194.84,
+          "probability": 0.5065654187991813
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "\u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c4d\u0c30\u0c3e\u0c2f\u0c4d\u0c30\u0c3f\u0c28\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f.",
+      "start": 137.68,
+      "end": 139.08,
+      "probability": 0.49229424901045205
+    },
+    {
+      "word": "\u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c4d\u0c30\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e\u0c2f\u0c3e.",
+      "start": 193.44,
+      "end": 194.84,
+      "probability": 0.5065654187991813
+    }
+  ],
+  "metadata": {
+    "model": "small",
+    "device": "cpu",
+    "detected_language": "te",
+    "explicit_language": null,
+    "duration": 0,
+    "segments_count": 2,
+    "words_count": 2,
+    "avg_probability": 0.49942983390481666,
+    "median_probability": 0.49942983390481666,
+    "low_confidence_count": 0,
+    "low_confidence_threshold": 0.3
+  }
+}

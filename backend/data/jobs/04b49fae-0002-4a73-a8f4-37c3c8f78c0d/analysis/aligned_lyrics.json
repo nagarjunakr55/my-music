@@ -1,0 +1,228 @@
+{
+  "original_text": "\u0c28\u0c40 \u0c1a\u0c42\u0c2a\u0c41\u0c32\u0c47 \u0c28\u0c3e \u0c0a\u0c2a\u0c3f\u0c30\u0c48\n\u0c28\u0c40 \u0c15\u0c32\u0c32\u0c47 \u0c28\u0c3e \u0c30\u0c42\u0c2a\u0c2e\u0c48",
+  "new_text": "\u0c28\u0c3e \u0c1a\u0c42\u0c2a\u0c41\u0c32\u0c47 \u0c28\u0c40 \u0c0a\u0c2a\u0c3f\u0c30\u0c48\n\u0c28\u0c3e \u0c15\u0c32\u0c32\u0c47 \u0c28\u0c40 \u0c30\u0c42\u0c2a\u0c2e\u0c48",
+  "lines": [
+    {
+      "text": "\u0c28\u0c3e \u0c1a\u0c42\u0c2a\u0c41\u0c32\u0c47 \u0c28\u0c40 \u0c0a\u0c2a\u0c3f\u0c30\u0c48",
+      "start": 22.01251700680272,
+      "end": 42.14421768707483,
+      "units": [
+        {
+          "text": "\u0c28\u0c3e",
+          "start": 22.01251700680272,
+          "end": 22.360816326530614,
+          "midi": 52,
+          "note_name": null,
+          "confidence": 0.3128752353525395
+        },
+        {
+          "text": " ",
+          "start": 22.453696145124717,
+          "end": 24.19519274376417,
+          "midi": 55,
+          "note_name": null,
+          "confidence": 0.5245009993440339
+        },
+        {
+          "text": "\u0c1a\u0c42",
+          "start": 24.427392290249433,
+          "end": 25.704489795918366,
+          "midi": 58,
+          "note_name": null,
+          "confidence": 0.6704174034745267
+        },
+        {
+          "text": "\u0c2a\u0c41",
+          "start": 25.93668934240363,
+          "end": 27.515646258503402,
+          "midi": 60,
+          "note_name": null,
+          "confidence": 0.504976753151836
+        },
+        {
+          "text": "\u0c32\u0c47",
+          "start": 27.631746031746033,
+          "end": 29.76798185941043,
+          "midi": 58,
+          "note_name": null,
+          "confidence": 0.6229342580773791
+        },
+        {
+          "text": " ",
+          "start": 29.837641723356008,
+          "end": 32.15963718820862,
+          "midi": 53,
+          "note_name": null,
+          "confidence": 0.4275142471263581
+        },
+        {
+          "text": "\u0c28\u0c40",
+          "start": 32.287346938775514,
+          "end": 33.73859410430839,
+          "midi": 75,
+          "note_name": null,
+          "confidence": 0.30136525711671525
+        },
+        {
+          "text": " ",
+          "start": 33.877913832199546,
+          "end": 36.53659863945578,
+          "midi": 72,
+          "note_name": null,
+          "confidence": 0.47912823758749123
+        },
+        {
+          "text": "\u0c0a",
+          "start": 36.55981859410431,
+          "end": 38.91664399092971,
+          "midi": 72,
+          "note_name": null,
+          "confidence": 0.626069753052095
+        },
+        {
+          "text": "\u0c2a\u0c3f",
+          "start": 39.021133786848075,
+          "end": 41.029659863945575,
+          "midi": 67,
+          "note_name": null,
+          "confidence": 0.5662065908464982
+        },
+        {
+          "text": "\u0c30\u0c48",
+          "start": 41.09931972789116,
+          "end": 42.14421768707483,
+          "midi": 67,
+          "note_name": null,
+          "confidence": 0.3849300843272923
+        }
+      ],
+      "unit_count": 11,
+      "line_index": 0,
+      "phrase_index": 0
+    },
+    {
+      "text": "\u0c28\u0c3e \u0c15\u0c32\u0c32\u0c47 \u0c28\u0c40 \u0c30\u0c42\u0c2a\u0c2e\u0c48",
+      "start": 43.25877551020408,
+      "end": 47.055238095238096,
+      "units": [
+        {
+          "text": "\u0c28\u0c3e",
+          "start": 43.25877551020408,
+          "end": 44.17596371882086,
+          "midi": 55,
+          "note_name": null,
+          "confidence": 0.5966027002870942
+        },
+        {
+          "text": " ",
+          "start": 44.22240362811792,
+          "end": 44.373333333333335,
+          "midi": 54,
+          "note_name": null,
+          "confidence": 0.03901754729823267
+        },
+        {
+          "text": "\u0c15",
+          "start": 44.373333333333335,
+          "end": 44.52426303854875,
+          "midi": 54,
+          "note_name": null,
+          "confidence": 0.03901754729823267
+        },
+        {
+          "text": "\u0c32",
+          "start": 44.582312925170065,
+          "end": 44.98285714285714,
+          "midi": 56,
+          "note_name": null,
+          "confidence": 0.5951430558203873
+        },
+        {
+          "text": "\u0c32\u0c47",
+          "start": 44.98285714285714,
+          "end": 45.38340136054422,
+          "midi": 56,
+          "note_name": null,
+          "confidence": 0.5951430558203873
+        },
+        {
+          "text": " ",
+          "start": 45.44145124716553,
+          "end": 45.62140589569161,
+          "midi": 60,
+          "note_name": null,
+          "confidence": 0.3695698058040747
+        },
+        {
+          "text": "\u0c28\u0c40",
+          "start": 45.62140589569161,
+          "end": 45.80136054421769,
+          "midi": 60,
+          "note_name": null,
+          "confidence": 0.3695698058040747
+        },
+        {
+          "text": " ",
+          "start": 45.89424036281179,
+          "end": 46.306394557823126,
+          "midi": 54,
+          "note_name": null,
+          "confidence": 0.44129584550973
+        },
+        {
+          "text": "\u0c30\u0c42",
+          "start": 46.306394557823126,
+          "end": 46.718548752834465,
+          "midi": 54,
+          "note_name": null,
+          "confidence": 0.44129584550973
+        },
+        {
+          "text": "\u0c2a",
+          "start": 46.74176870748299,
+          "end": 46.89850340136054,
+          "midi": 51,
+          "note_name": null,
+          "confidence": 0.4056112142547255
+        },
+        {
+          "text": "\u0c2e\u0c48",
+          "start": 46.89850340136054,
+          "end": 47.055238095238096,
+          "midi": 51,
+          "note_name": null,
+          "confidence": 0.4056112142547255
+        }
+      ],
+      "unit_count": 11,
+      "line_index": 1,
+      "phrase_index": 1
+    }
+  ],
+  "comparisons": [
+    {
+      "original_text": "\u0c28\u0c40 \u0c1a\u0c42\u0c2a\u0c41\u0c32\u0c47 \u0c28\u0c3e \u0c0a\u0c2a\u0c3f\u0c30\u0c48",
+      "new_text": "\u0c28\u0c3e \u0c1a\u0c42\u0c2a\u0c41\u0c32\u0c47 \u0c28\u0c40 \u0c0a\u0c2a\u0c3f\u0c30\u0c48",
+      "original_units": 11,
+      "new_units": 11,
+      "fit_status": "GOOD",
+      "line_index": 0,
+      "message": "\u2713 Good fit"
+    },
+    {
+      "original_text": "\u0c28\u0c40 \u0c15\u0c32\u0c32\u0c47 \u0c28\u0c3e \u0c30\u0c42\u0c2a\u0c2e\u0c48",
+      "new_text": "\u0c28\u0c3e \u0c15\u0c32\u0c32\u0c47 \u0c28\u0c40 \u0c30\u0c42\u0c2a\u0c2e\u0c48",
+      "original_units": 11,
+      "new_units": 11,
+      "fit_status": "GOOD",
+      "line_index": 1,
+      "message": "\u2713 Good fit"
+    }
+  ],
+  "total_units": 22,
+  "line_count": 2,
+  "metadata": {
+    "original_line_count": 2,
+    "original_total_units": 22
+  }
+}

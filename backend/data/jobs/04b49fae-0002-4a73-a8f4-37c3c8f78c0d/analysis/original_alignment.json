@@ -1,0 +1,418 @@
+{
+  "text": "\u0c28\u0c40 \u0c1a\u0c42\u0c2a\u0c41\u0c32\u0c47 \u0c28\u0c3e \u0c0a\u0c2a\u0c3f\u0c30\u0c48\n\u0c28\u0c40 \u0c15\u0c32\u0c32\u0c47 \u0c28\u0c3e \u0c30\u0c42\u0c2a\u0c2e\u0c48",
+  "lines": [
+    {
+      "text": "\u0c28\u0c40 \u0c1a\u0c42\u0c2a\u0c41\u0c32\u0c47 \u0c28\u0c3e \u0c0a\u0c2a\u0c3f\u0c30\u0c48",
+      "start": 22.01251700680272,
+      "end": 42.14421768707483,
+      "units": [
+        {
+          "text": "\u0c28\u0c40",
+          "start": 22.01251700680272,
+          "end": 22.360816326530614,
+          "midi": 52,
+          "note_name": null,
+          "confidence": 0.3128752353525395
+        },
+        {
+          "text": " ",
+          "start": 22.453696145124717,
+          "end": 24.19519274376417,
+          "midi": 55,
+          "note_name": null,
+          "confidence": 0.5245009993440339
+        },
+        {
+          "text": "\u0c1a\u0c42",
+          "start": 24.427392290249433,
+          "end": 25.704489795918366,
+          "midi": 58,
+          "note_name": null,
+          "confidence": 0.6704174034745267
+        },
+        {
+          "text": "\u0c2a\u0c41",
+          "start": 25.93668934240363,
+          "end": 27.515646258503402,
+          "midi": 60,
+          "note_name": null,
+          "confidence": 0.504976753151836
+        },
+        {
+          "text": "\u0c32\u0c47",
+          "start": 27.631746031746033,
+          "end": 29.76798185941043,
+          "midi": 58,
+          "note_name": null,
+          "confidence": 0.6229342580773791
+        },
+        {
+          "text": " ",
+          "start": 29.837641723356008,
+          "end": 32.15963718820862,
+          "midi": 53,
+          "note_name": null,
+          "confidence": 0.4275142471263581
+        },
+        {
+          "text": "\u0c28\u0c3e",
+          "start": 32.287346938775514,
+          "end": 33.73859410430839,
+          "midi": 75,
+          "note_name": null,
+          "confidence": 0.30136525711671525
+        },
+        {
+          "text": " ",
+          "start": 33.877913832199546,
+          "end": 36.53659863945578,
+          "midi": 72,
+          "note_name": null,
+          "confidence": 0.47912823758749123
+        },
+        {
+          "text": "\u0c0a",
+          "start": 36.55981859410431,
+          "end": 38.91664399092971,
+          "midi": 72,
+          "note_name": null,
+          "confidence": 0.626069753052095
+        },
+        {
+          "text": "\u0c2a\u0c3f",
+          "start": 39.021133786848075,
+          "end": 41.029659863945575,
+          "midi": 67,
+          "note_name": null,
+          "confidence": 0.5662065908464982
+        },
+        {
+          "text": "\u0c30\u0c48",
+          "start": 41.09931972789116,
+          "end": 42.14421768707483,
+          "midi": 67,
+          "note_name": null,
+          "confidence": 0.3849300843272923
+        }
+      ],
+      "unit_count": 11,
+      "line_index": 0,
+      "phrase_index": 0
+    },
+    {
+      "text": "\u0c28\u0c40 \u0c15\u0c32\u0c32\u0c47 \u0c28\u0c3e \u0c30\u0c42\u0c2a\u0c2e\u0c48",
+      "start": 43.25877551020408,
+      "end": 47.055238095238096,
+      "units": [
+        {
+          "text": "\u0c28\u0c40",
+          "start": 43.25877551020408,
+          "end": 44.17596371882086,
+          "midi": 55,
+          "note_name": null,
+          "confidence": 0.5966027002870942
+        },
+        {
+          "text": " ",
+          "start": 44.22240362811792,
+          "end": 44.373333333333335,
+          "midi": 54,
+          "note_name": null,
+          "confidence": 0.03901754729823267
+        },
+        {
+          "text": "\u0c15",
+          "start": 44.373333333333335,
+          "end": 44.52426303854875,
+          "midi": 54,
+          "note_name": null,
+          "confidence": 0.03901754729823267
+        },
+        {
+          "text": "\u0c32",
+          "start": 44.582312925170065,
+          "end": 44.98285714285714,
+          "midi": 56,
+          "note_name": null,
+          "confidence": 0.5951430558203873
+        },
+        {
+          "text": "\u0c32\u0c47",
+          "start": 44.98285714285714,
+          "end": 45.38340136054422,
+          "midi": 56,
+          "note_name": null,
+          "confidence": 0.5951430558203873
+        },
+        {
+          "text": " ",
+          "start": 45.44145124716553,
+          "end": 45.62140589569161,
+          "midi": 60,
+          "note_name": null,
+          "confidence": 0.3695698058040747
+        },
+        {
+          "text": "\u0c28\u0c3e",
+          "start": 45.62140589569161,
+          "end": 45.80136054421769,
+          "midi": 60,
+          "note_name": null,
+          "confidence": 0.3695698058040747
+        },
+        {
+          "text": " ",
+          "start": 45.89424036281179,
+          "end": 46.306394557823126,
+          "midi": 54,
+          "note_name": null,
+          "confidence": 0.44129584550973
+        },
+        {
+          "text": "\u0c30\u0c42",
+          "start": 46.306394557823126,
+          "end": 46.718548752834465,
+          "midi": 54,
+          "note_name": null,
+          "confidence": 0.44129584550973
+        },
+        {
+          "text": "\u0c2a",
+          "start": 46.74176870748299,
+          "end": 46.89850340136054,
+          "midi": 51,
+          "note_name": null,
+          "confidence": 0.4056112142547255
+        },
+        {
+          "text": "\u0c2e\u0c48",
+          "start": 46.89850340136054,
+          "end": 47.055238095238096,
+          "midi": 51,
+          "note_name": null,
+          "confidence": 0.4056112142547255
+        }
+      ],
+      "unit_count": 11,
+      "line_index": 1,
+      "phrase_index": 1
+    }
+  ],
+  "total_units": 22,
+  "line_count": 2,
+  "vocal_phrases": [
+    {
+      "start": 22.01251700680272,
+      "end": 42.14421768707483,
+      "duration": 20.131700680272107,
+      "note_count": 19,
+      "avg_pitch": 63.421052631578945,
+      "pitch_range": [
+        52.0,
+        75.0
+      ]
+    },
+    {
+      "start": 43.25877551020408,
+      "end": 47.055238095238096,
+      "duration": 3.796462585034014,
+      "note_count": 5,
+      "avg_pitch": 55.2,
+      "pitch_range": [
+        51.0,
+        60.0
+      ]
+    },
+    {
+      "start": 48.576145124716554,
+      "end": 56.04136054421769,
+      "duration": 7.465215419501135,
+      "note_count": 6,
+      "avg_pitch": 67.16666666666667,
+      "pitch_range": [
+        64.0,
+        70.0
+      ]
+    },
+    {
+      "start": 69.76435374149659,
+      "end": 75.89442176870749,
+      "duration": 6.130068027210896,
+      "note_count": 1,
+      "avg_pitch": 65.0,
+      "pitch_range": [
+        65.0,
+        65.0
+      ]
+    },
+    {
+      "start": 91.26603174603174,
+      "end": 101.00680272108843,
+      "duration": 9.74077097505669,
+      "note_count": 6,
+      "avg_pitch": 59.833333333333336,
+      "pitch_range": [
+        56.0,
+        63.0
+      ]
+    },
+    {
+      "start": 101.80789115646259,
+      "end": 115.98367346938775,
+      "duration": 14.175782312925165,
+      "note_count": 7,
+      "avg_pitch": 70.0,
+      "pitch_range": [
+        64.0,
+        75.0
+      ]
+    },
+    {
+      "start": 116.57578231292517,
+      "end": 121.70739229024943,
+      "duration": 5.13160997732426,
+      "note_count": 4,
+      "avg_pitch": 74.0,
+      "pitch_range": [
+        72.0,
+        77.0
+      ]
+    },
+    {
+      "start": 123.44888888888889,
+      "end": 125.13233560090703,
+      "duration": 1.6834467120181387,
+      "note_count": 3,
+      "avg_pitch": 55.666666666666664,
+      "pitch_range": [
+        52.0,
+        60.0
+      ]
+    },
+    {
+      "start": 125.74766439909297,
+      "end": 133.23609977324264,
+      "duration": 7.488435374149674,
+      "note_count": 6,
+      "avg_pitch": 57.333333333333336,
+      "pitch_range": [
+        53.0,
+        60.0
+      ]
+    },
+    {
+      "start": 133.95591836734692,
+      "end": 135.8251247165533,
+      "duration": 1.8692063492063653,
+      "note_count": 2,
+      "avg_pitch": 69.5,
+      "pitch_range": [
+        67.0,
+        72.0
+      ]
+    },
+    {
+      "start": 136.57977324263038,
+      "end": 145.28725623582767,
+      "duration": 8.707482993197289,
+      "note_count": 7,
+      "avg_pitch": 70.0,
+      "pitch_range": [
+        66.0,
+        72.0
+      ]
+    },
+    {
+      "start": 170.5621768707483,
+      "end": 172.80290249433108,
+      "duration": 2.24072562358279,
+      "note_count": 1,
+      "avg_pitch": 80.0,
+      "pitch_range": [
+        80.0,
+        80.0
+      ]
+    },
+    {
+      "start": 174.88108843537415,
+      "end": 176.27428571428572,
+      "duration": 1.3931972789115719,
+      "note_count": 3,
+      "avg_pitch": 71.0,
+      "pitch_range": [
+        66.0,
+        80.0
+      ]
+    },
+    {
+      "start": 181.22013605442177,
+      "end": 184.0065306122449,
+      "duration": 2.7863945578231153,
+      "note_count": 4,
+      "avg_pitch": 73.5,
+      "pitch_range": [
+        63.0,
+        80.0
+      ]
+    },
+    {
+      "start": 188.89433106575964,
+      "end": 212.20716553287983,
+      "duration": 23.312834467120183,
+      "note_count": 11,
+      "avg_pitch": 65.72727272727273,
+      "pitch_range": [
+        56.0,
+        76.0
+      ]
+    },
+    {
+      "start": 214.08798185941043,
+      "end": 218.5229931972789,
+      "duration": 4.435011337868474,
+      "note_count": 4,
+      "avg_pitch": 64.25,
+      "pitch_range": [
+        63.0,
+        65.0
+      ]
+    },
+    {
+      "start": 219.30086167800454,
+      "end": 229.85433106575962,
+      "duration": 10.553469387755086,
+      "note_count": 10,
+      "avg_pitch": 68.4,
+      "pitch_range": [
+        65.0,
+        72.0
+      ]
+    },
+    {
+      "start": 230.43482993197279,
+      "end": 237.42403628117913,
+      "duration": 6.989206349206341,
+      "note_count": 7,
+      "avg_pitch": 58.285714285714285,
+      "pitch_range": [
+        55.0,
+        60.0
+      ]
+    },
+    {
+      "start": 238.7243537414966,
+      "end": 242.69496598639455,
+      "duration": 3.97061224489795,
+      "note_count": 1,
+      "avg_pitch": 53.0,
+      "pitch_range": [
+        53.0,
+        53.0
+      ]
+    }
+  ],
+  "metadata": {
+    "melody_path": "data/jobs/04b49fae-0002-4a73-a8f4-37c3c8f78c0d/analysis/melody.json",
+    "phrase_count": 19
+  }
+}

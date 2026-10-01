@@ -1,0 +1,8 @@
+{
+  "language": "te",
+  "language_name": "Telugu",
+  "base_repo": "ResembleAI/chatterbox",
+  "base_t3": "t3_mtl23ls_v2.safetensors",
+  "vocab_size": 2521,
+  "t3_model": "t3_mtl_te.safetensors"
+}

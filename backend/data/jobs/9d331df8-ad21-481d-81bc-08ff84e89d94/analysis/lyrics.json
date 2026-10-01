@@ -1,0 +1,59 @@
+{
+  "language": "te",
+  "text": "\u0c28\u0c3e\u0c24\u0c3f\u0c02\u0c26\u0c3f\u0c15\u0c4d\u0c1f\u0c3e\u0c24\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c3e\u0c15\u0c3f\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c7f\u0c28\u0c40\u0c1f\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f. \u0c38\u0c3f\u0c38\u0c3e\u0c32\u0c41\u0c1f\u0c4d\u0c32\u0c41\u0c32\u0c4d\u0c32\u0c41\u0c32\u0c41\u0c32\u0c41\u0c32\u0c3e\u0c32\u0c41\u0c32\u0c3e\u0c30\u0c4d\u0c32\u0c41.",
+  "segments": [
+    {
+      "start": 135.22,
+      "end": 136.62,
+      "text": "\u0c28\u0c3e\u0c24\u0c3f\u0c02\u0c26\u0c3f\u0c15\u0c4d\u0c1f\u0c3e\u0c24\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c3e\u0c15\u0c3f\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c7f\u0c28\u0c40\u0c1f\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f.",
+      "words": [
+        {
+          "word": "\u0c28\u0c3e\u0c24\u0c3f\u0c02\u0c26\u0c3f\u0c15\u0c4d\u0c1f\u0c3e\u0c24\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c3e\u0c15\u0c3f\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c7f\u0c28\u0c40\u0c1f\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f.",
+          "start": 135.22,
+          "end": 136.62,
+          "probability": 0.4975509494323941
+        }
+      ]
+    },
+    {
+      "start": 244.32,
+      "end": 245.72,
+      "text": "\u0c38\u0c3f\u0c38\u0c3e\u0c32\u0c41\u0c1f\u0c4d\u0c32\u0c41\u0c32\u0c4d\u0c32\u0c41\u0c32\u0c41\u0c32\u0c41\u0c32\u0c3e\u0c32\u0c41\u0c32\u0c3e\u0c30\u0c4d\u0c32\u0c41.",
+      "words": [
+        {
+          "word": "\u0c38\u0c3f\u0c38\u0c3e\u0c32\u0c41\u0c1f\u0c4d\u0c32\u0c41\u0c32\u0c4d\u0c32\u0c41\u0c32\u0c41\u0c32\u0c41\u0c32\u0c3e\u0c32\u0c41\u0c32\u0c3e\u0c30\u0c4d\u0c32\u0c41.",
+          "start": 244.32,
+          "end": 245.72,
+          "probability": 0.4990748939545531
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "\u0c28\u0c3e\u0c24\u0c3f\u0c02\u0c26\u0c3f\u0c15\u0c4d\u0c1f\u0c3e\u0c24\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c3e\u0c15\u0c3f\u0c3f\u0c02\u0c26\u0c3f\u0c28\u0c7f\u0c28\u0c40\u0c1f\u0c3f\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f.",
+      "start": 135.22,
+      "end": 136.62,
+      "probability": 0.4975509494323941
+    },
+    {
+      "word": "\u0c38\u0c3f\u0c38\u0c3e\u0c32\u0c41\u0c1f\u0c4d\u0c32\u0c41\u0c32\u0c4d\u0c32\u0c41\u0c32\u0c41\u0c32\u0c41\u0c32\u0c3e\u0c32\u0c41\u0c32\u0c3e\u0c30\u0c4d\u0c32\u0c41.",
+      "start": 244.32,
+      "end": 245.72,
+      "probability": 0.4990748939545531
+    }
+  ],
+  "metadata": {
+    "model": "small",
+    "device": "cpu",
+    "detected_language": "te",
+    "explicit_language": null,
+    "duration": 0,
+    "segments_count": 2,
+    "words_count": 2,
+    "avg_probability": 0.49831292169347363,
+    "median_probability": 0.49831292169347363,
+    "low_confidence_count": 0,
+    "low_confidence_threshold": 0.3
+  }
+}

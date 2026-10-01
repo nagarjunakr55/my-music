@@ -1,0 +1,451 @@
+{
+  "language": "te",
+  "text": "illustrations of the \u597d\u2026  cui \u5144\u5f1f\u7518\u4e4e\u5973\u90ed \u4eba\u751f  Architect \u6155\u8f9b \u7687 \u5bf8 \u5144\u5144\u5f1f\u5144 \u59b9 \u5f1f\u5144\u5144\u5f1f\u5f1f \u7687 \u7687 \u7687 accessories Varelaanara! Varelaanara! Varelaanara! Varelaanara! Varelaanara! Varelaanara! Varelaanara! Varelaanara! Varelaanara! Varelaanara! Varelaanara! Varelaanara!",
+  "segments": [
+    {
+      "start": 30.54,
+      "end": 32.3,
+      "text": "illustrations of the \u597d\u2026",
+      "words": [
+        {
+          "word": "illustrations",
+          "start": 30.54,
+          "end": 30.92,
+          "probability": 8.865458221407607e-05
+        },
+        {
+          "word": "of",
+          "start": 30.92,
+          "end": 30.92,
+          "probability": 0.15111398696899414
+        },
+        {
+          "word": "the",
+          "start": 30.92,
+          "end": 30.92,
+          "probability": 0.19183692336082458
+        },
+        {
+          "word": "\u597d\u2026",
+          "start": 30.92,
+          "end": 32.3,
+          "probability": 0.01930885096953716
+        }
+      ]
+    },
+    {
+      "start": 32.8,
+      "end": 36.3,
+      "text": "cui \u5144\u5f1f\u7518\u4e4e\u5973\u90ed \u4eba\u751f",
+      "words": [
+        {
+          "word": "cui",
+          "start": 32.8,
+          "end": 32.84,
+          "probability": 4.8149919166462496e-05
+        },
+        {
+          "word": "\u5144\u5f1f\u7518\u4e4e\u5973\u90ed",
+          "start": 32.84,
+          "end": 35.12,
+          "probability": 0.1457344310998451
+        },
+        {
+          "word": "\u4eba\u751f",
+          "start": 35.12,
+          "end": 36.3,
+          "probability": 0.24552606767974794
+        }
+      ]
+    },
+    {
+      "start": 38.14,
+      "end": 38.7,
+      "text": "Architect \u6155\u8f9b \u7687 \u5bf8 \u5144\u5144\u5f1f\u5144",
+      "words": [
+        {
+          "word": "Architect",
+          "start": 38.14,
+          "end": 38.26,
+          "probability": 6.9775228439539205e-06
+        },
+        {
+          "word": "\u6155\u8f9b",
+          "start": 38.26,
+          "end": 38.26,
+          "probability": 0.14479231150471605
+        },
+        {
+          "word": "\u7687",
+          "start": 38.26,
+          "end": 38.26,
+          "probability": 0.26057359343394637
+        },
+        {
+          "word": "\u5bf8",
+          "start": 38.26,
+          "end": 38.26,
+          "probability": 0.12419809292381008
+        },
+        {
+          "word": "\u5144\u5144\u5f1f\u5144",
+          "start": 38.26,
+          "end": 38.7,
+          "probability": 0.2784437899244949
+        }
+      ]
+    },
+    {
+      "start": 46.74,
+      "end": 56.36,
+      "text": "\u59b9 \u5f1f\u5144\u5144\u5f1f\u5f1f \u7687 \u7687 \u7687 accessories",
+      "words": [
+        {
+          "word": "\u59b9",
+          "start": 46.74,
+          "end": 48.14,
+          "probability": 0.12339296331629157
+        },
+        {
+          "word": "\u5f1f\u5144\u5144\u5f1f\u5f1f",
+          "start": 48.14,
+          "end": 49.54,
+          "probability": 0.2848574258387089
+        },
+        {
+          "word": "\u7687",
+          "start": 49.54,
+          "end": 53.18,
+          "probability": 0.11203745938837528
+        },
+        {
+          "word": "\u7687",
+          "start": 53.18,
+          "end": 53.56,
+          "probability": 0.5451306477189064
+        },
+        {
+          "word": "\u7687",
+          "start": 53.56,
+          "end": 53.62,
+          "probability": 0.8795082569122314
+        },
+        {
+          "word": "accessories",
+          "start": 53.62,
+          "end": 56.36,
+          "probability": 4.7269801939364697e-07
+        }
+      ]
+    },
+    {
+      "start": 56.36,
+      "end": 63.0,
+      "text": "Varelaanara! Varelaanara! Varelaanara!",
+      "words": [
+        {
+          "word": "Varelaanara!",
+          "start": 56.36,
+          "end": 58.12,
+          "probability": 0.19258453249931334
+        },
+        {
+          "word": "Varelaanara!",
+          "start": 60.56,
+          "end": 61.96,
+          "probability": 0.959659194946289
+        },
+        {
+          "word": "Varelaanara!",
+          "start": 61.96,
+          "end": 63.0,
+          "probability": 0.9702343583106995
+        }
+      ]
+    },
+    {
+      "start": 97.39999999999999,
+      "end": 100.2,
+      "text": "Varelaanara! Varelaanara!",
+      "words": [
+        {
+          "word": "Varelaanara!",
+          "start": 97.39999999999999,
+          "end": 98.8,
+          "probability": 0.005279102856002282
+        },
+        {
+          "word": "Varelaanara!",
+          "start": 98.8,
+          "end": 100.2,
+          "probability": 0.8082129299640656
+        }
+      ]
+    },
+    {
+      "start": 118.22,
+      "end": 119.4,
+      "text": "Varelaanara! Varelaanara!",
+      "words": [
+        {
+          "word": "Varelaanara!",
+          "start": 118.22,
+          "end": 118.94,
+          "probability": 0.00946821025772806
+        },
+        {
+          "word": "Varelaanara!",
+          "start": 119.0,
+          "end": 119.4,
+          "probability": 0.8016665160655976
+        }
+      ]
+    },
+    {
+      "start": 157.84,
+      "end": 163.42,
+      "text": "Varelaanara! Varelaanara!",
+      "words": [
+        {
+          "word": "Varelaanara!",
+          "start": 157.84,
+          "end": 159.24,
+          "probability": 0.03485804087786164
+        },
+        {
+          "word": "Varelaanara!",
+          "start": 162.02,
+          "end": 163.42,
+          "probability": 0.951330840587616
+        }
+      ]
+    },
+    {
+      "start": 234.92,
+      "end": 236.32,
+      "text": "Varelaanara!",
+      "words": [
+        {
+          "word": "Varelaanara!",
+          "start": 234.92,
+          "end": 236.32,
+          "probability": 0.005853832497086842
+        }
+      ]
+    },
+    {
+      "start": 240.85999999999999,
+      "end": 244.26,
+      "text": "Varelaanara! Varelaanara!",
+      "words": [
+        {
+          "word": "Varelaanara!",
+          "start": 240.85999999999999,
+          "end": 242.26,
+          "probability": 0.026307134865783156
+        },
+        {
+          "word": "Varelaanara!",
+          "start": 242.86,
+          "end": 244.26,
+          "probability": 0.8099334686994553
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "illustrations",
+      "start": 30.54,
+      "end": 30.92,
+      "probability": 8.865458221407607e-05
+    },
+    {
+      "word": "of",
+      "start": 30.92,
+      "end": 30.92,
+      "probability": 0.15111398696899414
+    },
+    {
+      "word": "the",
+      "start": 30.92,
+      "end": 30.92,
+      "probability": 0.19183692336082458
+    },
+    {
+      "word": "\u597d\u2026",
+      "start": 30.92,
+      "end": 32.3,
+      "probability": 0.01930885096953716
+    },
+    {
+      "word": "cui",
+      "start": 32.8,
+      "end": 32.84,
+      "probability": 4.8149919166462496e-05
+    },
+    {
+      "word": "\u5144\u5f1f\u7518\u4e4e\u5973\u90ed",
+      "start": 32.84,
+      "end": 35.12,
+      "probability": 0.1457344310998451
+    },
+    {
+      "word": "\u4eba\u751f",
+      "start": 35.12,
+      "end": 36.3,
+      "probability": 0.24552606767974794
+    },
+    {
+      "word": "Architect",
+      "start": 38.14,
+      "end": 38.26,
+      "probability": 6.9775228439539205e-06
+    },
+    {
+      "word": "\u6155\u8f9b",
+      "start": 38.26,
+      "end": 38.26,
+      "probability": 0.14479231150471605
+    },
+    {
+      "word": "\u7687",
+      "start": 38.26,
+      "end": 38.26,
+      "probability": 0.26057359343394637
+    },
+    {
+      "word": "\u5bf8",
+      "start": 38.26,
+      "end": 38.26,
+      "probability": 0.12419809292381008
+    },
+    {
+      "word": "\u5144\u5144\u5f1f\u5144",
+      "start": 38.26,
+      "end": 38.7,
+      "probability": 0.2784437899244949
+    },
+    {
+      "word": "\u59b9",
+      "start": 46.74,
+      "end": 48.14,
+      "probability": 0.12339296331629157
+    },
+    {
+      "word": "\u5f1f\u5144\u5144\u5f1f\u5f1f",
+      "start": 48.14,
+      "end": 49.54,
+      "probability": 0.2848574258387089
+    },
+    {
+      "word": "\u7687",
+      "start": 49.54,
+      "end": 53.18,
+      "probability": 0.11203745938837528
+    },
+    {
+      "word": "\u7687",
+      "start": 53.18,
+      "end": 53.56,
+      "probability": 0.5451306477189064
+    },
+    {
+      "word": "\u7687",
+      "start": 53.56,
+      "end": 53.62,
+      "probability": 0.8795082569122314
+    },
+    {
+      "word": "accessories",
+      "start": 53.62,
+      "end": 56.36,
+      "probability": 4.7269801939364697e-07
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 56.36,
+      "end": 58.12,
+      "probability": 0.19258453249931334
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 60.56,
+      "end": 61.96,
+      "probability": 0.959659194946289
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 61.96,
+      "end": 63.0,
+      "probability": 0.9702343583106995
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 97.39999999999999,
+      "end": 98.8,
+      "probability": 0.005279102856002282
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 98.8,
+      "end": 100.2,
+      "probability": 0.8082129299640656
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 118.22,
+      "end": 118.94,
+      "probability": 0.00946821025772806
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 119.0,
+      "end": 119.4,
+      "probability": 0.8016665160655976
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 157.84,
+      "end": 159.24,
+      "probability": 0.03485804087786164
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 162.02,
+      "end": 163.42,
+      "probability": 0.951330840587616
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 234.92,
+      "end": 236.32,
+      "probability": 0.005853832497086842
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 240.85999999999999,
+      "end": 242.26,
+      "probability": 0.026307134865783156
+    },
+    {
+      "word": "Varelaanara!",
+      "start": 242.86,
+      "end": 244.26,
+      "probability": 0.8099334686994553
+    }
+  ],
+  "metadata": {
+    "model": "tiny",
+    "device": "cpu",
+    "detected_language": "te",
+    "explicit_language": null,
+    "duration": 0,
+    "segments_count": 10,
+    "words_count": 30,
+    "avg_probability": 0.3027329072730057,
+    "median_probability": 0.1484242090344196,
+    "low_confidence_count": 22,
+    "low_confidence_threshold": 0.3
+  }
+}
